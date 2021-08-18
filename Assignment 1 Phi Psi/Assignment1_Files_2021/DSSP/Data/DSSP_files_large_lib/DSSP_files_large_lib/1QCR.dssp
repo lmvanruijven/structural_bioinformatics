@@ -1,0 +1,6 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=6-FEB-2014      .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    OXIDOREDUCTASE                          17-MAY-97   1QCR                                                             .
+COMPND   2 MOLECULE: UBIQUINOL CYTOCHROME C OXIDOREDUCTASE;                                                                    .
+SOURCE   2 ORGANISM_SCIENTIFIC: BOS TAURUS;                                                                                    .
+AUTHOR    D.XIA,C.A.YU,H.KIM,J.Z.XIA,A.KACHURIN,L.ZHANG,L.YU,                                                                  .

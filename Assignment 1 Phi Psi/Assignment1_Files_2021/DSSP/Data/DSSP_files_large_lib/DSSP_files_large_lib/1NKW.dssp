@@ -1,0 +1,6 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=6-FEB-2014      .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    RIBOSOME                                05-JAN-03   1NKW                                                             .
+COMPND   2 MOLECULE: 23S RIBOSOMAL RNA;                                                                                        .
+SOURCE   2 ORGANISM_SCIENTIFIC: DEINOCOCCUS RADIODURANS;                                                                       .
+AUTHOR    J.M.HARMS,F.SCHLUENZEN,R.ZARIVACH,A.BASHAN,S.GAT,I.AGMON,                                                            .

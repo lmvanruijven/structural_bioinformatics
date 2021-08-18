@@ -1,0 +1,6 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=6-FEB-2014      .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    RIBOSOME                                07-AUG-01   1JQS                                                             .
+COMPND   2 MOLECULE: 50S RIBOSOMAL PROTEIN L11;                                                                                .
+SOURCE   2 ORGANISM_SCIENTIFIC: ESCHERICHIA COLI;                                                                              .
+AUTHOR    R.K.AGRAWAL,J.LINDE,J.SEGUPTA,K.H.NIERHAUS,J.FRANK                                                                   .

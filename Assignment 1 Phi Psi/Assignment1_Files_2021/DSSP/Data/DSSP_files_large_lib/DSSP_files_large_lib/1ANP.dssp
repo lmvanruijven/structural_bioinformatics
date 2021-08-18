@@ -1,0 +1,6 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=6-FEB-2014      .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    HYPOTENSIVE HORMONE                     06-APR-94   1ANP                                                             .
+COMPND   2 MOLECULE: ATRIAL NATRIURETIC PEPTIDE;                                                                               .
+SOURCE   2 ORGANISM_SCIENTIFIC: HOMO SAPIENS;                                                                                  .
+AUTHOR    W.J.FAIRBROTHER,R.S.MCDOWELL,B.C.CUNNINGHAM                                                                          .

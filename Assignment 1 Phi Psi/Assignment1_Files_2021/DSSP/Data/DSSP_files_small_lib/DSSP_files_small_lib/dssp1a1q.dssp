@@ -1,0 +1,6 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=24-NOV-2008     .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    HYDROLASE                               12-DEC-97   1A1Q                                                             .
+COMPND   2 MOLECULE: NS3 PROTEINASE;                                                                                           .
+SOURCE   2 ORGANISM_SCIENTIFIC: HEPATITIS C VIRUS;                                                                             .
+AUTHOR    R.A.LOVE,H.E.PARGE,J.A.WICKERSHAM,Z.HOSTOMSKY,N.HABUKA,                                                              .

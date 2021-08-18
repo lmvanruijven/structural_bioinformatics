@@ -1,0 +1,65 @@
+==== Secondary Structure Definition by the program DSSP, updated CMBI version by ElmK / April 1,2000 ==== DATE=6-FEB-2014      .
+REFERENCE W. KABSCH AND C.SANDER, BIOPOLYMERS 22 (1983) 2577-2637                                                              .
+HEADER    PHEROMONE                               09-NOV-00   1HD6                                                             .
+COMPND   2 MOLECULE: PHEROMONE ER-22;                                                                                          .
+SOURCE   2 ORGANISM_SCIENTIFIC: EUPLOTES RAIKOVI;                                                                              .
+AUTHOR    P.LUGINBUHL,A.LIU,O.ZERBE,C.ORTENZI,P.LUPORINI,K.WUTHRICH                                                            .
+   37  1  3  3  0 TOTAL NUMBER OF RESIDUES, NUMBER OF CHAINS, NUMBER OF SS-BRIDGES(TOTAL,INTRACHAIN,INTERCHAIN)                .
+  2659.0   ACCESSIBLE SURFACE OF PROTEIN (ANGSTROM**2)                                                                         .
+   26 70.3   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(J)  , SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS IN     PARALLEL BRIDGES, SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS IN ANTIPARALLEL BRIDGES, SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I-5), SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I-4), SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I-3), SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I-2), SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I-1), SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+0), SAME NUMBER PER 100 RESIDUES                              .
+    0  0.0   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+1), SAME NUMBER PER 100 RESIDUES                              .
+    1  2.7   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+2), SAME NUMBER PER 100 RESIDUES                              .
+    6 16.2   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+3), SAME NUMBER PER 100 RESIDUES                              .
+   18 48.6   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+4), SAME NUMBER PER 100 RESIDUES                              .
+    1  2.7   TOTAL NUMBER OF HYDROGEN BONDS OF TYPE O(I)-->H-N(I+5), SAME NUMBER PER 100 RESIDUES                              .
+  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30     *** HISTOGRAMS OF ***           .
+  0  0  0  1  0  0  0  1  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0    RESIDUES PER ALPHA HELIX         .
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0    PARALLEL BRIDGES PER LADDER      .
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0    ANTIPARALLEL BRIDGES PER LADDER  .
+  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0    LADDERS PER SHEET                .
+  #  RESIDUE AA STRUCTURE BP1 BP2  ACC     N-H-->O    O-->H-N    N-H-->O    O-->H-N    TCO  KAPPA ALPHA  PHI   PSI    X-CA   Y-CA   Z-CA 
+    1    1 A D    >>        0   0  128      0, 0.0     4,-2.4     0, 0.0     3,-0.8   0.000 360.0 360.0 360.0 174.8   -8.0   -7.3   -3.7
+    2    2 A I  H 3>  +     0   0   91      1,-0.3     4,-2.9     2,-0.2    16,-0.2   0.784 360.0  56.2 -52.8 -31.8   -6.8   -6.3   -0.2
+    3    3 A a  H 3> S+     0   0   10      2,-0.2     4,-1.9     1,-0.2    -1,-0.3   0.943 110.2  44.7 -63.4 -44.5   -3.4   -5.2   -1.6
+    4    4 A D  H <> S+     0   0   89     -3,-0.8     4,-2.8     2,-0.2    -2,-0.2   0.861 109.3  56.6 -68.8 -35.1   -5.3   -2.9   -3.9
+    5    5 A I  H  X S+     0   0   96     -4,-2.4     4,-3.0     2,-0.2     5,-0.3   0.973 108.2  47.4 -53.8 -55.8   -7.4   -1.8   -0.9
+    6    6 A A  H  X>S+     0   0    0     -4,-2.9     5,-1.9     1,-0.2     4,-1.0   0.859 111.7  51.5 -55.7 -37.5   -4.1   -0.9    0.8
+    7    7 A I  H  <5S+     0   0   66     -4,-1.9    -1,-0.2     2,-0.2    -2,-0.2   0.892 110.6  46.8 -68.9 -40.4   -3.1    0.9   -2.4
+    8    8 A A  H  <5S+     0   0   74     -4,-2.8    -2,-0.2     1,-0.2    -1,-0.2   0.955 120.8  38.8 -58.8 -48.4   -6.3    2.9   -2.4
+    9    9 A Q  H  <5S-     0   0  113     -4,-3.0    -2,-0.2    -5,-0.2    -1,-0.2   0.658 101.7-141.7 -73.7 -17.2   -5.8    3.6    1.3
+   10   10 A b  T  <5 +     0   0    9     -4,-1.0     2,-0.5    -5,-0.3    -3,-0.2   0.967  47.0 157.3  37.4  69.2   -2.1    4.1    0.6
+   11   11 A S     >< -     0   0   27     -5,-1.9     4,-1.4     1,-0.1    -1,-0.2  -0.973  43.6-162.4-127.9 116.3   -1.6    2.3    3.9
+   12   12 A L  H  > S+     0   0   70     -2,-0.5     4,-0.8     2,-0.2    -1,-0.1   0.881  95.0  53.6 -67.6 -36.8    1.6    0.5    5.0
+   13   13 A T  H >4 S+     0   0  133      1,-0.2     3,-1.9     2,-0.2     4,-0.3   0.979 109.8  47.3 -60.6 -50.1   -0.2   -1.4    7.8
+   14   14 A L  H >> S+     0   0   31      1,-0.3     3,-1.8     2,-0.2     4,-0.6   0.799 100.8  68.0 -61.8 -26.9   -2.9   -2.7    5.4
+   15   15 A c  H >< S+     0   0    0     -4,-1.4     3,-1.2     1,-0.3    -1,-0.3   0.819  85.9  69.2 -62.7 -26.6   -0.0   -3.7    3.0
+   16   16 A Q  T << S+     0   0  144     -3,-1.9    -1,-0.3    -4,-0.8    -2,-0.2   0.663  93.1  58.1 -67.9 -13.6    1.0   -6.3    5.6
+   17   17 A D  T <4 S+     0   0   84     -3,-1.8    -1,-0.3    -4,-0.3    -2,-0.2   0.749  91.1  95.7 -73.8 -30.8   -2.3   -8.1    4.6
+   18   18 A a  S X< S-     0   0    5     -3,-1.2     3,-0.7    -4,-0.6     6,-0.1  -0.407  77.6-132.8 -73.8 140.0   -1.0   -8.2    1.0
+   19   19 A E  T 3  S+     0   0  167      1,-0.3     2,-1.7    -2,-0.1    -1,-0.1   0.959 106.9  42.3 -48.8 -64.0    0.8  -11.3   -0.3
+   20   20 A N  T >> S+     0   0   70      1,-0.2     4,-2.4     2,-0.1     3,-0.9  -0.435  80.4 175.6 -90.5  64.4    3.7   -9.4   -1.9
+   21   21 A T  H <> S+     0   0   38     -2,-1.7     4,-3.0    -3,-0.7     3,-0.2   0.827  72.2  43.8 -38.7 -63.3    4.1   -7.0    1.1
+   22   22 A P  H 3> S+     0   0   75      0, 0.0     4,-2.3     0, 0.0    -1,-0.3   0.826 114.0  52.2 -62.4 -29.0    7.2   -5.0    0.1
+   23   23 A I  H <> S+     0   0  116     -3,-0.9     4,-2.7     2,-0.2    -2,-0.2   0.893 111.0  47.9 -70.5 -38.4    5.9   -4.6   -3.4
+   24   24 A c  H  X S+     0   0    0     -4,-2.4     4,-2.9    -3,-0.2     5,-0.2   0.971 112.0  49.8 -58.6 -52.1    2.7   -3.3   -1.8
+   25   25 A E  H  X S+     0   0   57     -4,-3.0     4,-2.4     1,-0.2    -2,-0.2   0.871 112.8  47.1 -51.4 -46.4    4.8   -1.0    0.3
+   26   26 A L  H  X S+     0   0  160     -4,-2.3     4,-2.1     2,-0.2    -1,-0.2   0.951 113.8  45.8 -66.3 -49.8    6.7    0.2   -2.8
+   27   27 A A  H  X S+     0   0   23     -4,-2.7     4,-2.3     2,-0.2    -2,-0.2   0.863 110.3  55.6 -60.4 -37.8    3.5    0.8   -4.8
+   28   28 A V  H  X S+     0   0    0     -4,-2.9     4,-2.5     2,-0.3    -2,-0.2   0.946 107.7  47.0 -63.7 -49.5    1.9    2.5   -1.8
+   29   29 A K  H  < S+     0   0  116     -4,-2.4    -1,-0.2     1,-0.2    -2,-0.2   0.877 110.3  57.1 -52.8 -38.0    4.9    4.9   -1.7
+   30   30 A G  H  < S+     0   0   61     -4,-2.1    -2,-0.3     1,-0.2    -1,-0.2   0.954 112.6  38.6 -51.1 -50.1    4.2    5.1   -5.5
+   31   31 A S  H  < S+     0   0   62     -4,-2.3    -2,-0.2     1,-0.2    -1,-0.2   0.761 127.2  23.2 -83.4 -30.6    0.6    6.2   -4.8
+   32   32 A b  S  < S-     0   0   32     -4,-2.5    -1,-0.2    -5,-0.1     4,-0.1  -0.998  86.6-106.8-141.7 139.2    1.1    8.6   -1.8
+   33   33 A P        -     0   0  111      0, 0.0    -3,-0.1     0, 0.0     4,-0.1  -0.406  56.2 -79.8 -70.6 134.7    4.2   10.5   -0.7
+   34   34 A P  S    S+     0   0   71      0, 0.0     2,-0.2     0, 0.0     3,-0.0  -0.483 110.0  47.1 -78.8 152.8    5.9    9.0    2.5
+   35   35 A P  S    S-     0   0  119      0, 0.0     2,-0.1     0, 0.0     0, 0.0   0.699  94.7-137.5 -67.9 163.9    5.3    9.3    5.4
+   36   36 A W              0   0   54     -2,-0.2   -25,-0.1     1,-0.1   -26,-0.1  -0.393 360.0 360.0 -93.1 164.2    1.6    8.5    4.8
+   37   37 A S              0   0  157    -27,-0.2    -1,-0.1    -2,-0.1   -27,-0.1   0.928 360.0 360.0 -74.1 360.0   -1.6   10.0    6.2
